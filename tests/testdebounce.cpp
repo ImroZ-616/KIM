@@ -1,3 +1,5 @@
+# include <Arduino.h>
+
 const int BUTTON_PIN = 4;
 
 int buttonState = HIGH;

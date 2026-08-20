@@ -26,3 +26,8 @@ env/
 # =========================
 .DS_Store
 Thumbs.db
+
+# =========================
+# Secrets
+# =========================
+firmware/include/secrets.h
